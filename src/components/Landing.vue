@@ -55,9 +55,10 @@
              <span class="block text-black inline">ADAPTED LEARNING SPECIALIST</span>
              <br><br>
 
-            <p class="mt-3 text-base text-gray-700 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat fugiat aliqua.</p>
-                      <p class="mt-3 text-base text-gray-700 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat fugiat aliqua.</p>
-
+            <p class="mt-3 text-base text-gray-700 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
+              <span class="block inline text-pink-500">VISION : </span><span class="block  inline">Inclusive learning for all.</span> <br>
+              <span class="block inline text-blue-500">MISSION : </span><span class="block  inline">If I don't learn the way you teach then teach the way I learn.</span> <br>
+              </p>
           </div>
         </main>
       </div>
