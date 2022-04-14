@@ -8,7 +8,7 @@ import Landing from './components/Landing.vue'
 
 <style>
 #app{
-  background: purple;
+  background: rgb(231, 40, 231);
   padding: 0 !important;
   margin: 0 !important;
 }
