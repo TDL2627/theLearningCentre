@@ -25,16 +25,16 @@
                 </div>
               </div>
               <div class="hidden md:block md:ml-10 md:pr-4 md:space-x-8">
-                <a href="#" class="font-medium text-gray-700 hover:text-yellow-500">About</a>
+                <a href="#" class="linky1 font-medium text-yellow-500 hover:text-gray-700">About</a>
   
-                <a href="#" class="font-medium text-gray-700 hover:text-pink-500">Gallery</a>
+                <a href="#" class="linky2 font-medium text-pink-700 hover:text-gray-700">Gallery</a>
 
-               <a href="#" class="font-medium text-gray-700 hover:text-yellow-500">Testimonials</a>
+               <a href="#" class="linky1 font-medium text-yellow-500 hover:text-gray-700">Testimonials</a>
 
   
-                <a href="#" class="font-medium text-gray-700 hover:text-pink-500">Team</a>
+                <a href="#" class="linky2 font-medium text-pink-700 hover:text-gray-700">Team</a>
   
-                <a href="#" class="font-medium text-gray-700 hover:text-yellow-500">Contact</a>
+                <a href="#" class="linky1 font-medium text-yellow-500 hover:text-gray-700">Contact</a>
   
               </div>
             </nav>
@@ -101,7 +101,24 @@ export default {
 .buttie{
   display: none;
 }
-
+  a{
+    border-radius: 25px;
+    text-decoration: none;
+  }
+  .linky1{
+border: 2px solid yellow;
+padding: 10px;
+  }
+  .linky2{
+    padding: 10px;
+border: 2px solid pink;
+  }
+  .linky1:hover{
+    background: yellow;
+  }
+  .linky2:hover{
+    background: pink;
+  }
 @media only screen and (max-width:700px) {
   .navie{
     background-color:black;
@@ -111,6 +128,7 @@ export default {
   .buttie{
     display: initial;
   }
+
 
 }
 
