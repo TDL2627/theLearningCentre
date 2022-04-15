@@ -60,5 +60,7 @@ export default {
     border: 3px solid rgb(247, 87, 113);
     border-bottom-left-radius: 25px;
     border-bottom-right-radius: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 </style>

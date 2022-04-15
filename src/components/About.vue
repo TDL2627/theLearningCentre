@@ -68,10 +68,19 @@
 </div>
 
 </div>
+<div class="row">
+<div class="col-lg-6">
+  <h3 class="subhead">Location</h3>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3309.048893157632!2d18.5288137152128!3d-33.965582780629596!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1dcc44acfb0c6691%3A0x775e5ae8b8f08d75!2s40%20Bongo%20Cres%2C%20Silvertown%2C%20Cape%20Town%2C%207764!5e0!3m2!1sen!2sza!4v1650043808394!5m2!1sen!2sza" width="500" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 
 </div>
+
 </div>
 
+</div>
+
+</div>
     </div>
   </div>
 </div>
