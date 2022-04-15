@@ -24,9 +24,9 @@
                 </div>
               </div>
               <div class="hidden md:block md:ml-10 md:pr-4 md:space-x-8">
-                <a href="#" class="linky1 font-medium text-yellow-500 hover:text-gray-700">About</a>
+                <a href="#about" class="linky1 font-medium text-yellow-500 hover:text-gray-700">About</a>
   
-                <a href="#" class="linky2 font-medium text-pink-700 hover:text-gray-700">Gallery</a>
+                <a href="#gallery" class="linky2 font-medium text-pink-700 hover:text-gray-700">Gallery</a>
 
                <a href="#" class="linky1 font-medium text-yellow-500 hover:text-gray-700">Testimonials</a>
 

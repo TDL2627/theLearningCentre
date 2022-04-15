@@ -1,12 +1,14 @@
 <script setup>
 import Landing from './components/Landing.vue'
 import About from './components/About.vue'
+import Gallery from './components/Gallery.vue';
 
 </script>
 
 <template>
 <Landing/>
 <About/>
+<Gallery/>
 </template>
 
 <style>
