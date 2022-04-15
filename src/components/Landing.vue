@@ -13,13 +13,7 @@
             <nav class="relative flex items-center justify-between sm:h-10  lg:justify-start" aria-label="Global">
               <div class="flex items-center flex-grow flex-shrink-0 lg:flex-grow-0">
                 <div class="flex items-center justify-between w-full md:w-auto">
-                  <a href="#">
-                    <img class="h-8 w-auto sm:h-10 navpic" src="../assets/hand.png" alt="logo">
-                    </a>
-
-                    <button class="btn buttie float-end" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasExample" aria-controls="offcanvasExample">
- <img src="../assets/hamburger.png" alt="">
-</button>
+                 
                               
                 </div>
               </div>
@@ -65,18 +59,41 @@
       <img class="h-56 w-full object-cover sm:h-72 md:h-96 lg:w-full lg:h-full" src="../assets/kiddo.jpg" alt="">
     </div>
   </div>
-<!-- off canvas -->
-<div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
-  <div class="offcanvas-header">
-    <h5 class="offcanvas-title" id="offcanvasExampleLabel">TLC</h5>
-    <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+<!-- nav -->
+<nav class="navbar navbar-expand-lg navbar-light navo  fixed-top">
+  <div class="container-fluid">
+ <a href="#">
+                    <img class="h-8 w-auto sm:h-10 navpic" src="../assets/hand.png" alt="logo">
+                    </a> 
+                    <button class="navbar-toggler buttie float-end" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+ <img src="../assets/hamburger.png" alt="">
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0 text-center">
+        <li class="nav-item">
+          <a class="nav-link" href="#about">ABOUT</a>
+        </li>
+      <li class="nav-item">
+          <a class="nav-link" href="#gallery">GALLERY</a>
+        </li>
+      <li class="nav-item">
+          <a class="nav-link" href="#team">TEAM</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#testimonials">TESTIMONIALS</a>
+        </li>
+                <li class="nav-item">
+          <a class="nav-link" href="#register">REGISTER</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#about">CONTACT</a>
+        </li>
+      </ul>
+      
+    </div>
   </div>
-  <div class="offcanvas-body">
-     <a href="#about" class="linky1 font-medium text-yellow-500 hover:text-gray-700">About</a>
-     <a href="#gallery" class="linky2 font-medium text-pink-700 hover:text-gray-700">Gallery</a>
+</nav>
 
-  </div>
-</div>
 </div>
 </template>
 
@@ -87,9 +104,14 @@ export default {
 </script>
 
 <style scoped>
-.offcanvas{
-  width: 50%;
-}
+.navo{
+  background: black;
+    display: none;
+  
+  }
+  .nav-link{
+  color: white !important;
+  }
 .buttie{
   display: none;
 }
@@ -112,10 +134,20 @@ border: 2px solid pink;
     background: pink;
   }
 @media only screen and (max-width:700px) {
+  #landing{
+    padding-top: 20px;
+  }
   .navie{
     background-color:black;
     padding-top: 10px;
     padding-bottom: 10px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+  }
+  .navo{
+    display: initial;
   }
   .buttie{
     display: initial;

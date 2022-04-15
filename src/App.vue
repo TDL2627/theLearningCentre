@@ -15,7 +15,7 @@ import Team from './components/Team.vue';
 
 <style>
 #app{
-  background: rgb(231, 40, 231);
+  background: white;
   padding: 0 !important;
   margin: 0 !important;
 }

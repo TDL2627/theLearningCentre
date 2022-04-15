@@ -112,4 +112,9 @@ li{
   font-weight: 500;
   margin: 10px;
 }
+@media only screen and (max-width:700px) {
+   #about{
+    padding-top: 50px;
+  } 
+}
 </style>

@@ -63,4 +63,9 @@ export default {
     margin-top: 20px;
     margin-bottom: 20px;
 }
+@media only screen and (max-width:700px) {
+   #team{
+    padding-top: 50px;
+  } 
+}
 </style>

@@ -50,5 +50,9 @@ img{
   border-radius: 50%;
   padding: 30px;
 }
-
+@media only screen and (max-width:700px) {
+   #gallery{
+    padding-top: 50px;
+  } 
+}
 </style>
