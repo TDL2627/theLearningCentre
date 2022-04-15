@@ -4,7 +4,57 @@
     <div class="max-w-7xl mx-auto text-center">
    <h1 class="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl">ABOUT</h1>
 <div class="content text-start">
-  <p></p>
+<div class="container-fluid">
+<h3 class="subhead">WHAT WE PROVIDE :</h3>
+<div class="row">
+<div class="col-lg-6">
+  <ul>
+    <li data-icon="💙">
+      Safe and secure premises
+    </li>
+    <li  data-icon="💙">
+       Modern spacious learning space
+    </li>
+    <li  data-icon="💙">
+      Affordable fees
+    </li>
+    <li  data-icon="💙">
+      Qualified facilitators
+    </li>
+    <li  data-icon="💙">
+      Parent and child sit in sessions
+    </li>
+    <li  data-icon="💙">
+      Tool kit workshops for parents as well as learning facilities migrating to inclusive learning
+    </li>
+  </ul>
+</div>
+<div class="col-lg-6">
+  <ul>
+    <li  data-icon="💙">
+      We follow the Aba curriculum
+    </li>
+    <li  data-icon="💙">
+      Makaton sign language
+    </li>
+    <li  data-icon="💙">
+      Pecs enhanced activities if required
+    </li>
+    <li  data-icon="💙">
+     Small groups to accomadate individual learning
+    </li>
+    <li  data-icon="💙">
+      One on one teaching methodology
+    </li>
+    <li  data-icon="💙">
+      Each child has an individual learning program designed to suite their needs
+    </li>
+  </ul>
+</div>
+
+</div>
+
+</div>
 </div>
 
     </div>
@@ -18,6 +68,24 @@ export default {
 }
 </script>
 
-<style>
-
+<style scoped>
+.subhead{
+  /* margin-left: 5%; */
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-color: rgb(245, 2, 164);
+}
+p{
+  font-weight:500 ;
+}
+ul li::before {
+  content: attr(data-icon);
+  /* Make slightly larger than the li font-size
+  but smaller than the li gap */
+  font-size: 1.25em;
+}
+li{
+  font-weight: 500;
+  margin: 10px;
+}
 </style>

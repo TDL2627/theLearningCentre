@@ -20,8 +20,7 @@
                     <button class="btn buttie float-end" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasExample" aria-controls="offcanvasExample">
  <img src="../assets/hamburger.png" alt="">
 </button>
-                  
-                 
+                              
                 </div>
               </div>
               <div class="hidden md:block md:ml-10 md:pr-4 md:space-x-8">
