@@ -48,6 +48,7 @@ img{
 .carousel-control-prev-icon, .carousel-control-next-icon{
   background-color: blue !important;
   border-radius: 50%;
+  padding: 30px;
 }
 
 </style>
