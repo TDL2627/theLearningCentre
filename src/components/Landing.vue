@@ -28,11 +28,10 @@
   
                 <a href="#gallery" class="linky2 font-medium text-pink-700 hover:text-gray-700">Gallery</a>
 
-               <a href="#" class="linky1 font-medium text-yellow-500 hover:text-gray-700">Testimonials</a>
+                <a href="#team" class="linky1 font-medium text-yellow-500  hover:text-gray-700">Team</a>
 
-  
-                <a href="#" class="linky2 font-medium text-pink-700 hover:text-gray-700">Team</a>
-  
+               <a href="#" class="linky2 font-medium text-pink-700 hover:text-gray-700">Testimonials</a>
+
                 <a href="#" class="linky1 font-medium text-yellow-500 hover:text-gray-700">Contact</a>
   
               </div>

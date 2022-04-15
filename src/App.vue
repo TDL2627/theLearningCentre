@@ -2,6 +2,7 @@
 import Landing from './components/Landing.vue'
 import About from './components/About.vue'
 import Gallery from './components/Gallery.vue';
+import Team from './components/Team.vue';
 
 </script>
 
@@ -9,6 +10,7 @@ import Gallery from './components/Gallery.vue';
 <Landing/>
 <About/>
 <Gallery/>
+<Team/>
 </template>
 
 <style>
