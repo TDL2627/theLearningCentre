@@ -63,6 +63,11 @@ border-radius: 10px;
 border: 1px solid rgba( 255, 255, 255, 0.18 );
 margin-top: 20px;
 margin-bottom: 20px;
-}
 
+}
+@media only screen and (max-width:700px) {
+   .card{
+       margin-left: 10%;
+   } 
+}
 </style>

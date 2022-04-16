@@ -6,21 +6,32 @@
 
 <div class="container">
 <div class="row">
+    <div class="col-lg-6">
+        <h5>Address : </h5>
+              <p>40 Bongo Crescent,Silvertown, Athlone, Cape Town, 7764, South Africa</p>
+              <h5>Phone :</h5>
+              <p>+27749594511</p>
+              <h5>What's App :</h5>
+              <a  target="_blank" href="https://wa.me/27749594511"><img id="wapp" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-whatsapp-social-media-justicon-flat-justicon.png"/></a>
+              <h5>Email :</h5>
+              <p>safodienfazlin07@gmail.com</p>
+    </div>
 <div class="col-lg-6">
-<form>
+<form  action="https://formspree.io/f/xgednpkq"
+  method="POST" target="_blank">
     <div class="mb-3">
     <label for="exampleInputName1" class="form-label">Full Name</label>
-    <input type="text" class="form-control" id="exampleInputName1" >
+    <input name="name" type="text" class="form-control" id="exampleInputName1" >
     <div  class="form-text"></div>
   </div>
   <div class="mb-3">
     <label for="exampleInputEmail1" class="form-label">Email address</label>
-    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    <input type="email" name="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
     <div  class="form-text">We'll never share your email with anyone else.</div>
   </div>
   <div class="mb-3">
     <label class="form-label">Cell phone number</label>
-    <input type="number" class="form-control" >
+    <input type="number" name="number" class="form-control" >
   </div>
 
   <button type="submit" class="btn btn-primary">Submit</button>
@@ -54,5 +65,8 @@ border-radius: 10px;
 border: 1px solid rgba( 255, 255, 255, 0.18 );
 padding:10px;
 margin-bottom: 50px;
+}
+#wapp{
+    margin-left: 42%;
 }
 </style>
