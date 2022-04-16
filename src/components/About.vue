@@ -78,11 +78,11 @@
 <div class="col-lg-6">
   <h3 class="subhead">Times</h3>
   <ul>
-    <li>MONDAY <span style="padding-left: 15%;">9AM - 4PM</span> </li>
-    <li>TUESDAY <span style="padding-left: 16%;">9AM - 4PM</span></li>
-    <li>WEDNESDAY <span style="padding-left: 10%;">9AM - 4PM</span></li>
-    <li>THURSDAY <span style="padding-left: 13%;">9AM - 4PM</span></li>
-    <li>FRIDAY <span style="padding-left: 20%;">9AM - 2PM</span></li>
+    <li>MONDAY <span style="padding-left: 15%;">8AM - 1:30PM</span> </li>
+    <li>TUESDAY <span style="padding-left: 16%;">8AM - 1:30PM</span></li>
+    <li>WEDNESDAY <span style="padding-left: 10%;">8AM - 1:30PM</span></li>
+    <li>THURSDAY <span style="padding-left: 13%;">8AM - 1:30PM</span></li>
+    <li>FRIDAY <span style="padding-left: 20%;">8AM - 1:30PM</span></li>
     <li>SATURDAY & SUNDAY <span style="color:red;">No Class</span></li>
   </ul>
 </div>

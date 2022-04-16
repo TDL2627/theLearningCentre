@@ -130,27 +130,14 @@ padding: 10px;
     padding: 10px;
 border: 2px solid pink;
   }
-  .linky3{
-    position: fixed;
-    top: 20px;
-    right: 50px;
-      padding: 10px;
-border: 2px solid blue;
-  color: white;
-    background: blue;
-  }
+
   .linky1:hover{
     background: yellow;
   }
   .linky2:hover{
     background: pink;
   }
-   .linky3:hover{
-     color: white;
-    background: blue;
-          padding: 20px;
 
-  }
 @media only screen and (max-width:700px) {
   #landing{
     padding-top: 20px;

@@ -28,11 +28,14 @@ a{
         text-decoration: none;
 }
 .tdl{
-
     border: solid 2px red;
     border-radius: 25px;
     color: white;
     padding: 10px;
     margin: 20px !important;
+}
+.tdl:hover{
+    color: white;
+    background: red;
 }
 </style>
