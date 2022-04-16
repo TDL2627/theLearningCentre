@@ -26,11 +26,10 @@
 
                 <a href="#team" class="linky1 font-medium text-yellow-500  hover:text-gray-700">Team</a>
 
-               <a href="#" class="linky2 font-medium text-pink-700 hover:text-gray-700">Testimonials</a>
-                      <a href="#" class="linky3 font-medium text-blue-500 hover:text-gray-700">Apply</a>
+               <a href="#testimonials" class="linky2 font-medium text-pink-700 hover:text-gray-700">Testimonials</a>
+                      <a href="#apply" class="linky1 font-medium text-yellow-500 hover:text-gray-700">Rules</a>
 
-
-                <a href="#" class="linky1 font-medium text-yellow-500 hover:text-gray-700">Contact</a>
+                <a href="#contact" class="linky2 font-medium text-pink-700 hover:text-gray-700">Contact</a>
   
               </div>
             </nav>
@@ -87,10 +86,10 @@
           <a class="nav-link" href="#testimonials" style="color:pink !important;">TESTIMONIALS</a>
         </li>
                 <li class="nav-item">
-          <a class="nav-link" href="#apply" style="color:yellow !important;">APPLY</a>
+          <a class="nav-link" href="#apply" style="color:yellow !important;">RULES</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#about" style="color:blue !important;">CONTACT</a>
+          <a class="nav-link" href="#contact" style="color:blue !important;">CONTACT</a>
         </li>
       </ul>
       

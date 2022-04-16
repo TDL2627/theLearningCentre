@@ -17,5 +17,9 @@ export default {
 </script>
 
 <style scoped>
-
+@media only screen and (max-width:700px) {
+   #testimonials{
+    padding-top: 50px;
+  } 
+}
 </style>

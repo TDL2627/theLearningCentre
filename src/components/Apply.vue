@@ -2,7 +2,7 @@
     <div id="apply">
  <div class="relative bg-white overflow-hidden">
     <div class="max-w-7xl mx-auto text-center">
-   <h1 class="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl">APPLICATION</h1>
+   <h1 class="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl">CODE OF CONDUCT</h1>
 
     </div>
  </div>

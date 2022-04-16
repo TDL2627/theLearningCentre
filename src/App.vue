@@ -3,6 +3,11 @@ import Landing from './components/Landing.vue'
 import About from './components/About.vue'
 import Gallery from './components/Gallery.vue';
 import Team from './components/Team.vue';
+import Testimonials from './components/Testimonials.vue';
+import Contact from './components/Contact.vue';
+import Footer from './components/Footer.vue';
+import Apply from './components/Apply.vue';
+
 
 </script>
 
@@ -11,6 +16,10 @@ import Team from './components/Team.vue';
 <About/>
 <Gallery/>
 <Team/>
+<Testimonials/>
+<Apply/>
+<Contact/>
+<Footer/>
 </template>
 
 <style>
