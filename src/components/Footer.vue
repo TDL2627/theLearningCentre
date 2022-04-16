@@ -2,7 +2,7 @@
   <div id="footer">
 <p style="padding-top:15px;"> <span style="color:pink">THE</span> <span  style="color:blue">LEARNING</span> <span  style="color:yellow">CENTRE</span>  </p>
 <p>©TDL2627</p>
-<p>Do you want a website like this for cheap?</p> 
+<p>Do you want an affordable website like this?</p> 
 <p style="margin-bottom:0">Contact the developer</p>
 <a  target="_blank" href="https://portfolio2627-53bc0.web.app/"><p class="tdl">Click here</p></a>
 

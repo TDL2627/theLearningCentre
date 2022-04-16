@@ -33,4 +33,9 @@ body{
   padding: 0;
   width: 100%;
 }
+  .mainhead{
+    padding-top: 50px;
+    padding-bottom: 20px;
+  } 
+
 </style>
