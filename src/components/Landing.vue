@@ -123,12 +123,12 @@ export default {
     text-decoration: none;
   }
   .linky1{
-border: 2px solid yellow;
+border: 5px solid yellow;
 padding: 10px;
   }
   .linky2{
     padding: 10px;
-border: 2px solid pink;
+border: 5px solid pink;
   }
 
   .linky1:hover{

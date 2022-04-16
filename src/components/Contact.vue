@@ -11,7 +11,7 @@
               <p>40 Bongo Crescent,Silvertown, Athlone, Cape Town, 7764, South Africa</p>
               <h5>Phone :</h5>
               <p>+27749594511</p>
-              <h5>What's App :</h5>
+              <h5>WhatsApp :</h5>
               <a  target="_blank" href="https://wa.me/27749594511"><img id="wapp" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-whatsapp-social-media-justicon-flat-justicon.png"/></a>
               <h5>Email :</h5>
               <p>safodienfazlin07@gmail.com</p>

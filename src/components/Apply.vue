@@ -8,7 +8,7 @@
    <li><p>At the learning centre, we strive for consistency of discipline.</p></li>
       <li><p>No late coming.</p></li>
 <li><p>Regular attendance.</p></li>
-<li><p>No fighting .</p></li>
+<li><p>No fighting.</p></li>
 <li><p>Late arrivals and late collection of children should be communicated in time with the apparent teacher.</p></li>
 <li><p>Sick children should be kept at home.</p></li>
 </ul>
