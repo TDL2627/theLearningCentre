@@ -57,7 +57,12 @@ export default {
         border: 3px solid rgb(247, 87, 113);
 }
 .card{
-    border: 3px solid rgb(247, 87, 113);
+  background: rgba( 242, 0, 206, 0.4 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 8.5px );
+-webkit-backdrop-filter: blur( 8.5px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
     border-bottom-left-radius: 25px;
     border-bottom-right-radius: 25px;
     margin-top: 20px;

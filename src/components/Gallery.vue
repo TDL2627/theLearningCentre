@@ -38,11 +38,13 @@ export default {
 <style scoped>
 .carousel{
     border: 10px yellow solid;
+    background: yellow;
     border-radius: 25px;
     margin: 5%;
 }
 img{
     height: 70vh;
+     border-radius: 20px;
     object-fit: cover;
 }
 .carousel-control-prev-icon, .carousel-control-next-icon{

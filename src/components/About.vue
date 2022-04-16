@@ -75,6 +75,17 @@
 
 
 </div>
+<div class="col-lg-6">
+  <h3 class="subhead">Times</h3>
+  <ul>
+    <li>MONDAY</li>
+    <li>TUESDAY</li>
+    <li>WEDNESDAY</li>
+    <li>THURSDAY</li>
+    <li>FRIDAY</li>
+    <li>SATURDAY & SUNDAY</li>
+  </ul>
+</div>
 
 </div>
 

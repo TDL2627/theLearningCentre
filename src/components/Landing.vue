@@ -13,7 +13,9 @@
             <nav class="relative flex items-center justify-between sm:h-10  lg:justify-start" aria-label="Global">
               <div class="flex items-center flex-grow flex-shrink-0 lg:flex-grow-0">
                 <div class="flex items-center justify-between w-full md:w-auto">
-                 
+                  <a href="#">
+                    <img class="h-8 w-auto sm:h-10 navpic" src="../assets/hand.png" alt="logo">
+                    </a>
                               
                 </div>
               </div>
@@ -25,6 +27,8 @@
                 <a href="#team" class="linky1 font-medium text-yellow-500  hover:text-gray-700">Team</a>
 
                <a href="#" class="linky2 font-medium text-pink-700 hover:text-gray-700">Testimonials</a>
+                      <a href="#" class="linky3 font-medium text-blue-500 hover:text-gray-700">Apply</a>
+
 
                 <a href="#" class="linky1 font-medium text-yellow-500 hover:text-gray-700">Contact</a>
   
@@ -32,7 +36,7 @@
             </nav>
           </div>
   
-       
+
        
         </div>
   
@@ -71,22 +75,22 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0 text-center">
         <li class="nav-item">
-          <a class="nav-link" href="#about">ABOUT</a>
+          <a class="nav-link" style="color:pink !important;" href="#about">ABOUT</a>
         </li>
       <li class="nav-item">
-          <a class="nav-link" href="#gallery">GALLERY</a>
+          <a class="nav-link" href="#gallery" style="color:yellow !important;">GALLERY</a>
         </li>
       <li class="nav-item">
-          <a class="nav-link" href="#team">TEAM</a>
+          <a class="nav-link" href="#team" style="color:blue !important;">TEAM</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#testimonials">TESTIMONIALS</a>
+          <a class="nav-link" href="#testimonials" style="color:pink !important;">TESTIMONIALS</a>
         </li>
                 <li class="nav-item">
-          <a class="nav-link" href="#register">REGISTER</a>
+          <a class="nav-link" href="#apply" style="color:yellow !important;">APPLY</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#about">CONTACT</a>
+          <a class="nav-link" href="#about" style="color:blue !important;">CONTACT</a>
         </li>
       </ul>
       
@@ -127,11 +131,26 @@ padding: 10px;
     padding: 10px;
 border: 2px solid pink;
   }
+  .linky3{
+    position: fixed;
+    top: 20px;
+    right: 50px;
+      padding: 10px;
+border: 2px solid blue;
+  color: white;
+    background: blue;
+  }
   .linky1:hover{
     background: yellow;
   }
   .linky2:hover{
     background: pink;
+  }
+   .linky3:hover{
+     color: white;
+    background: blue;
+          padding: 20px;
+
   }
 @media only screen and (max-width:700px) {
   #landing{
