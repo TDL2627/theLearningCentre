@@ -27,7 +27,7 @@
                 <a href="#team" class="linky1 font-medium text-yellow-500  hover:text-gray-700">Team</a>
 
                <a href="#testimonials" class="linky2 font-medium text-pink-700 hover:text-gray-700">Testimonials</a>
-                      <a href="#apply" class="linky1 font-medium text-yellow-500 hover:text-gray-700">Rules</a>
+                      <a href="#rules" class="linky1 font-medium text-yellow-500 hover:text-gray-700">Rules</a>
 
                 <a href="#contact" class="linky2 font-medium text-pink-700 hover:text-gray-700">Contact</a>
   
@@ -86,7 +86,7 @@
           <a class="nav-link" href="#testimonials" style="color:pink !important;">TESTIMONIALS</a>
         </li>
                 <li class="nav-item">
-          <a class="nav-link" href="#apply" style="color:yellow !important;">RULES</a>
+          <a class="nav-link" href="#rules" style="color:yellow !important;">RULES</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#contact" style="color:blue !important;">CONTACT</a>
