@@ -1,6 +1,6 @@
 <template>
   <div id="footer">
-<p style="padding-top:15px;"> <span style="color:pink">THE</span> <span  style="color:blue">LEARNING</span> <span  style="color:yellow">CENTRE</span>  </p>
+<p style="padding-top:15px;"> THE LEARNING CENTRE</p>
 <p>©TDL2627</p>
 <p>Do you want an affordable website like this?</p> 
 <p style="margin-bottom:0">Contact the developer</p>

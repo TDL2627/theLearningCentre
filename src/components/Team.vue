@@ -8,7 +8,17 @@
     <div class="row">
 <div class="col-lg-4">
 <div class="card" style="width: 18rem;">
-  <img src="../assets/teach1.jpg" class="card-img-top" alt="person">
+  <img src="../assets/people/b1.jpg" class="card-img-top" alt="person">
+  <div class="card-body">
+    <p class="card-text font-bold">Intervention Specialist/Head Facilitator</p>
+    <h5 class="card-title">Fazlin Safodien-Ullah</h5>
+  </div>
+</div>
+</div>
+
+<div class="col-lg-4">
+<div class="card" style="width: 18rem;">
+  <img src="../assets/people/b2.jpg" class="card-img-top" alt="person">
   <div class="card-body">
     <p class="card-text font-bold">Teacher</p>
     <h5 class="card-title">Name Surname</h5>
@@ -18,17 +28,7 @@
 
 <div class="col-lg-4">
 <div class="card" style="width: 18rem;">
-  <img src="../assets/teach1.jpg" class="card-img-top" alt="person">
-  <div class="card-body">
-    <p class="card-text font-bold">Teacher</p>
-    <h5 class="card-title">Name Surname</h5>
-  </div>
-</div>
-</div>
-
-<div class="col-lg-4">
-<div class="card" style="width: 18rem;">
-  <img src="../assets/teach1.jpg" class="card-img-top" alt="person">
+  <img src="../assets/people/b3.jpg" class="card-img-top" alt="person">
   <div class="card-body">
     <p class="card-text font-bold">Teacher</p>
     <h5 class="card-title">Name Surname</h5>
