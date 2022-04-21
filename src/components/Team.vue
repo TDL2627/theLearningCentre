@@ -20,8 +20,8 @@
 <div class="card" style="width: 18rem;">
   <img src="../assets/people/b2.jpg" class="card-img-top" alt="person">
   <div class="card-body">
-    <p class="card-text font-bold">Teacher</p>
-    <h5 class="card-title">Name Surname</h5>
+    <p class="card-text font-bold">Gr 2/3 Facilitator</p>
+    <h5 class="card-title">Shihaam Amardien</h5>
   </div>
 </div>
 </div>
@@ -30,8 +30,8 @@
 <div class="card" style="width: 18rem;">
   <img src="../assets/people/b3.jpg" class="card-img-top" alt="person">
   <div class="card-body">
-    <p class="card-text font-bold">Teacher</p>
-    <h5 class="card-title">Name Surname</h5>
+    <p class="card-text font-bold">Gr R/1 Facilitator</p>
+    <h5 class="card-title">Leticia Bamboe</h5>
   </div>
 </div>
 </div>

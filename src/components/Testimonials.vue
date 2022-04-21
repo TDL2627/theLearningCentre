@@ -10,8 +10,8 @@
 <div class="col-lg-4">
 <div class="card" style="width: 18rem;">
   <div class="card-body">
-    <p class="card-text">"My child loves it at The Learning Centre and really learns alot."</p>
-    <h5 class="card-title">Samantha Andrews</h5>
+    <p class="card-text">"Since my daughter started at The Learning Centre in October 2020, she has improved in leaps and bounds. Her communication has improved, her interest in school work has peaked and she has become more social with her peers."</p>
+    <h5 class="card-title">Bahijah</h5>
   </div>
 </div>
 </div>
@@ -64,6 +64,10 @@ border: 1px solid rgba( 255, 255, 255, 0.18 );
 margin-top: 20px;
 margin-bottom: 20px;
 
+}
+.card-text{
+  overflow-y:scroll;
+  height: 100px;
 }
 @media only screen and (max-width:700px) {
    .card{

@@ -37,5 +37,26 @@ body{
     padding-top: 50px;
     padding-bottom: 20px;
   } 
+  /* width */
+::-webkit-scrollbar {
+  width: 15px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: palevioletred;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: yellow;
+    border-radius: 25px;
+
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: blue;
+}
 
 </style>
