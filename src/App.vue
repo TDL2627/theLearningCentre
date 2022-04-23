@@ -7,11 +7,13 @@ import Testimonials from './components/Testimonials.vue';
 import Contact from './components/Contact.vue';
 import Footer from './components/Footer.vue';
 import Apply from './components/Apply.vue';
+import Home from './components/Home.vue';
 
 
 </script>
 
 <template>
+<Home/>
 <Landing/>
 <About/>
 <Gallery/>
