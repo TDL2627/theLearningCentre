@@ -8,7 +8,7 @@
 <div class="row">
 
 <div class="col-lg-4">
-<div class="card" style="width: 18rem;">
+<div class="card" style="width: 18rem;"  data-aos="fade-up-right">
   <div class="card-body">
     <p class="card-text">"Since my daughter started at The Learning Centre in October 2020, she has improved in leaps and bounds. Her communication has improved, her interest in school work has peaked and she has become more social with her peers."</p>
     <h5 class="card-title">Bahijah</h5>
@@ -17,7 +17,7 @@
 </div>
 
 <div class="col-lg-4">
-<div class="card" style="width: 18rem;">
+<div class="card" style="width: 18rem;"  data-aos="fade-up-left">
   <div class="card-body">
     <p class="card-text">"My child loves it at The Learning Centre and really learns alot."</p>
     <h5 class="card-title">Samantha Andrews</h5>
@@ -26,7 +26,7 @@
 </div>
 
 <div class="col-lg-4">
-<div class="card" style="width: 18rem;">
+<div class="card" style="width: 18rem;"  data-aos="fade-up-right">
   <div class="card-body">
     <p class="card-text">"My child loves it at The Learning Centre and really learns alot."</p>
     <h5 class="card-title">Samantha Andrews</h5>

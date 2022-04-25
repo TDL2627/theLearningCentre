@@ -5,7 +5,7 @@
    <h1 class="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl mainhead" data-aos="zoom-in">ABOUT</h1>
 <div class="content text-start">
 <div class="container-fluid">
-  <p>
+  <p data-aos="zoom-out">
     The Learning Centre was established in 2019 as a learning platform to cater for individual learning needs.
     The Learning Centre is an independent small group focused, special needs learning platform that promotes expediting the full potential of learners
     through the provision of individually specially designed working programs to suit the learner's needs allowing them to become who they meant to be.
@@ -14,9 +14,10 @@
      Our home away from home. A fully equipped learning environment that provides a relaxed atmosphere conductive to full potential learning.
 
   </p>
-<h3 class="subhead">WHAT WE PROVIDE :</h3>
+
+<h3 class="subhead"  data-aos="zoom-in">WHAT WE PROVIDE :</h3>
 <div class="row">
-<div class="col-lg-6">
+<div class="col-lg-6" data-aos="fade-right">
   <ul>
     <li data-icon="💙">
       Safe and secure premises
@@ -41,7 +42,7 @@
     </li>
   </ul>
 </div>
-<div class="col-lg-6">
+<div class="col-lg-6" data-aos="fade-left">
   <ul>
     <li  data-icon="💙">
       We follow the ABA curriculum
@@ -69,11 +70,11 @@
 
 </div>
 <div class="row">
-<div class="col-lg-6">
+<div class="col-lg-6"  data-aos="fade-right">
   <h3 class="subhead">Location</h3>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3309.048893157632!2d18.5288137152128!3d-33.965582780629596!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1dcc44acfb0c6691%3A0x775e5ae8b8f08d75!2s40%20Bongo%20Cres%2C%20Silvertown%2C%20Cape%20Town%2C%207764!5e0!3m2!1sen!2sza!4v1650043808394!5m2!1sen!2sza" width="500" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
-<div class="col-lg-6">
+<div class="col-lg-6"  data-aos="fade-left">
   <h3 class="subhead">Times</h3>
   <ul>
     <li>MONDAY <span style="padding-left: 15%;">8AM - 1:30PM</span> </li>

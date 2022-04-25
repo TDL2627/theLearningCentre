@@ -156,8 +156,6 @@ border: 5px solid yellow;
 padding: 5px;
 color: yellow;
 margin: 10px;
-
-
   }
   .linky2{
     padding: 5px;
@@ -215,7 +213,7 @@ margin: 10px;
     display: initial;
   }
   .navpic{
-    height: 25px;
+    height: 30px;
    margin:0;
 }
 }

@@ -7,7 +7,7 @@
 <div class="container">
     <div class="row">
 <div class="col-lg-4">
-<div class="card" style="width: 18rem;">
+<div class="card" style="width: 18rem;" data-aos="flip-left">
   <img src="../assets/people/b1.jpg" class="card-img-top" alt="person">
   <div class="card-body">
     <p class="card-text font-bold">Intervention Specialist/Head Facilitator</p>
@@ -17,7 +17,7 @@
 </div>
 
 <div class="col-lg-4">
-<div class="card" style="width: 18rem;">
+<div class="card" style="width: 18rem;" data-aos="flip-right">
   <img src="../assets/people/b2.jpg" class="card-img-top" alt="person">
   <div class="card-body">
     <p class="card-text font-bold">Gr 2/3 Facilitator</p>
@@ -27,7 +27,7 @@
 </div>
 
 <div class="col-lg-4">
-<div class="card" style="width: 18rem;">
+<div class="card" style="width: 18rem;" data-aos="flip-left">
   <img src="../assets/people/b3.jpg" class="card-img-top" alt="person">
   <div class="card-body">
     <p class="card-text font-bold">Gr R/1 Facilitator</p>

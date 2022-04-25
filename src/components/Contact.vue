@@ -6,7 +6,7 @@
 
 <div class="container">
 <div class="row">
-    <div class="col-lg-6">
+    <div class="col-lg-6" data-aos="fade-down-left">
         <h5>Address : </h5>
               <p>40 Bongo Crescent,Silvertown, Athlone, Cape Town, 7764, South Africa</p>
               <h5>Phone :</h5>
@@ -18,7 +18,7 @@
     </div>
 <div class="col-lg-6">
 <form  action="https://formspree.io/f/xgednpkq"
-  method="POST" target="_blank">
+  method="POST" target="_blank" data-aos="fade-down-right">
     <div class="mb-3">
     <label for="exampleInputName1" class="form-label">Full Name</label>
     <input name="name" type="text" class="form-control" id="exampleInputName1" >
