@@ -84,6 +84,9 @@ export default {};
     height: 100vh;
     background: linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
         url("../assets/kiddo.jpg");
+        background-position: center center;
+        background-attachment: fixed;
+        background-size: cover;
 }
 
 #nav2 {
