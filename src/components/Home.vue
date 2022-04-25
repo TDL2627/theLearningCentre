@@ -2,6 +2,7 @@
     <div id="home">
         <div class="relative overflow-hidden">
             <div class="max-w-7xl mx-auto text-center">
+                <!-- destop nav -->
                 <nav id="nav2">
                
  <a class="homie" href="#">
@@ -16,7 +17,40 @@
                   
                       
                 </nav>
-
+<!-- mobile nav -->
+<nav class="navbar navbar-expand-lg navbar-light navo  fixed-top">
+  <div class="container-fluid">
+ <a href="#">
+                    <img class="h-8 w-auto sm:h-10 navpic" src="../assets/hand.png" alt="logo">
+                    </a> 
+                    <button class="navbar-toggler buttie float-end" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+ <img src="../assets/hamburger.png" alt="">
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0 text-center">
+        <li class="nav-item">
+          <a class="nav-link" style="color:pink !important;" href="#about">ABOUT</a>
+        </li>
+      <li class="nav-item">
+          <a class="nav-link" href="#gallery" style="color:yellow !important;">GALLERY</a>
+        </li>
+      <li class="nav-item">
+          <a class="nav-link" href="#team" style="color:blue !important;">TEAM</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#testimonials" style="color:pink !important;">TESTIMONIALS</a>
+        </li>
+                <li class="nav-item">
+          <a class="nav-link" href="#rules" style="color:yellow !important;">RULES</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#contact" style="color:blue !important;">CONTACT</a>
+        </li>
+      </ul>
+      
+    </div>
+  </div>
+</nav>
                 <div class="sm:text-center lg:text-left">
                     <div class="intro">
                         <h1 class="
@@ -149,6 +183,16 @@ margin: 10px;
     text-align: start;
     padding-left:20% ;
 }
+.navo{
+  background: black;
+    display: none;
+  
+  }
+  .buttie{
+  display: none;
+}
+ 
+
 @media screen and (max-width: 800px) {
     .intro {
         margin: 0;
@@ -163,6 +207,16 @@ margin: 10px;
     .vm{
     text-align: start;
     padding-left:5% ;
+}
+  .navo{
+    display: initial;
+  }
+  .buttie{
+    display: initial;
+  }
+  .navpic{
+    height: 25px;
+    margin: 10px;
 }
 }
 </style>

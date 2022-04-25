@@ -14,7 +14,6 @@ import Home from './components/Home.vue';
 
 <template>
 <Home/>
-<Landing/>
 <About/>
 <Gallery/>
 <Team/>
