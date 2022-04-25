@@ -6,73 +6,73 @@
    <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active c1">
-      <img src="../assets/gallery/one1.jpg" class="d-block w-100" alt="kidz">
+      <img src="../assets/gallery/one1.jpg" class="d-block w-100 gpic" alt="kidz">
     <h3>One on one learning</h3>
     </div>
     <div class="carousel-item c1">
-      <img src="../assets/gallery/one2.jpg" class="d-block w-100" alt="kidz">
+      <img src="../assets/gallery/one2.jpg" class="d-block w-100 gpic" alt="kidz">
          <h3>One on one learning</h3>
     </div>
     <div class="carousel-item c1">
-      <img src="../assets/gallery/one3.jpg" class="d-block w-100" alt="kidz">
+      <img src="../assets/gallery/one3.jpg" class="d-block w-100 gpic" alt="kidz">
          <h3>One on one learning</h3>
     </div>
       <div class="carousel-item c1">
-      <img src="../assets/gallery/one4.jpg" class="d-block w-100" alt="kidz">
+      <img src="../assets/gallery/one4.jpg" class="d-block w-100 gpic" alt="kidz">
          <h3>One on one learning</h3>
     </div>
   <div class="carousel-item c2">
-      <img src="../assets/gallery/therapy1.jpg" class="d-block w-100" alt="kidz">
+      <img src="../assets/gallery/therapy1.jpg" class="d-block w-100 gpic" alt="kidz">
          <h3>Sensory Therapy</h3>
     </div>
       <div class="carousel-item c2">
-      <img src="../assets/gallery/therapy2.jpg" class="d-block w-100" alt="kidz">
+      <img src="../assets/gallery/therapy2.jpg" class="d-block w-100 gpic" alt="kidz">
          <h3>Sensory Therapy</h3>
     </div>
       <div class="carousel-item c2">
-      <img src="../assets/gallery/therapy3.jpg" class="d-block w-100" alt="kidz">
+      <img src="../assets/gallery/therapy3.jpg" class="d-block w-100 gpic" alt="kidz">
          <h3>Occupational Therapy</h3>
     </div>
   <div class="carousel-item c2">
-      <img src="../assets/gallery/therapy4.jpg" class="d-block w-100" alt="kidz">
+      <img src="../assets/gallery/therapy4.jpg" class="d-block w-100 gpic" alt="kidz">
          <h3>Speech Therapy</h3>
     </div>
   <div class="carousel-item c1">
-      <img src="../assets/gallery/env1.jpg" class="d-block w-100" alt="kidz">
+      <img src="../assets/gallery/env1.jpg" class="d-block w-100 gpic" alt="kidz">
          <h3>Premises</h3>
     </div>
   <div class="carousel-item c1">
-      <img src="../assets/gallery/env2.jpg" class="d-block w-100" alt="kidz">
+      <img src="../assets/gallery/env2.jpg" class="d-block w-100 gpic" alt="kidz">
          <h3>Premises</h3>
     </div>
   <div class="carousel-item c1">
-      <img src="../assets/gallery/env3.jpg" class="d-block w-100" alt="kidz">
+      <img src="../assets/gallery/env3.jpg" class="d-block w-100 gpic" alt="kidz">
          <h3>Premises</h3>
     </div>
 
       <div class="carousel-item c2">
-      <img src="../assets/gallery/out1.jpg" class="d-block w-100" alt="kidz">
+      <img src="../assets/gallery/out1.jpg" class="d-block w-100 gpic" alt="kidz">
          <h3>Outings and events</h3>
     </div>
 
       <div class="carousel-item c2">
-      <img src="../assets/gallery/out2.jpg" class="d-block w-100" alt="kidz">
+      <img src="../assets/gallery/out2.jpg" class="d-block w-100 gpic" alt="kidz">
          <h3>Outings and events</h3>
     </div>
 
     
       <div class="carousel-item c2">
-      <img src="../assets/gallery/out3.jpg" class="d-block w-100" alt="kidz">
+      <img src="../assets/gallery/out3.jpg" class="d-block w-100 gpic" alt="kidz">
          <h3>Outings and events</h3>
     </div>
 
    <div class="carousel-item c1">
-      <img src="../assets/gallery/Pec.jpg" class="d-block w-100" alt="kidz">
+      <img src="../assets/gallery/Pec.jpg" class="d-block w-100 gpic" alt="kidz">
          <h3>Pecs</h3>
     </div>
 
        <div class="carousel-item c2">
-      <img src="../assets/gallery/talk.jpg" class="d-block w-100" alt="kidz">
+      <img src="../assets/gallery/talk.jpg" class="d-block w-100 gpic" alt="kidz">
          <h3>Talking App</h3>
     </div>
 
@@ -101,7 +101,9 @@ export default {
 <style scoped>
 .carousel{
     border-radius: 25px;
-    margin: 5%;
+    margin: 0%;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 .c1{
    border: 10px pink solid;
@@ -115,12 +117,19 @@ export default {
 img{
     height: 70vh;
      border-radius: 20px;
-    object-fit: cover;
+    width:100%;
+
 }
 .carousel-control-prev-icon, .carousel-control-next-icon{
   background-color: blue !important;
   border-radius: 50%;
   padding: 30px;
+}
+@media  only screen and (max-width:700px) {
+  .carousel{
+    border-radius: 25px;
+    margin: 5%;
+}
 }
 
 </style>
