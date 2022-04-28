@@ -100,9 +100,10 @@ export default {
 
 <style scoped>
 .carousel{
+    width: 25%;
     border-radius: 25px;
     margin: 0%;
-    margin-left: 5%;
+    margin-left: 35%;
     margin-right: 5%;
 }
 .c1{
@@ -115,6 +116,7 @@ export default {
     color: white;
 }
 img{
+
     height: 70vh;
      border-radius: 20px;
     width:100%;
@@ -127,6 +129,7 @@ img{
 }
 @media  only screen and (max-width:700px) {
   .carousel{
+    width:90%;
     border-radius: 25px;
     margin: 5%;
 }
