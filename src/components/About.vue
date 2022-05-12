@@ -35,9 +35,6 @@
       Qualified facilitators
     </li>
     <li  data-icon="💙">
-      Parent and child sit in sessions
-    </li>
-    <li  data-icon="💙">
       Tool kit workshops for parents as well as learning facilities migrating to inclusive learning
     </li>
   </ul>

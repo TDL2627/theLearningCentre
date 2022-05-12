@@ -89,10 +89,9 @@
                         </h1>
                     </div>
 
-                    <br />
-                    <h3 class="slogan">ADAPTED LEARNING SPECIALIST</h3>
-
-                    <br /><br />
+                   <br>
+                   <br>
+                   <br>
 
                     <p class="vm">
                         <span class="block inline text-pink-500">VISION : </span><span style="color: white"
