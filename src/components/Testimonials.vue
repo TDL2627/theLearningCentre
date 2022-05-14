@@ -19,8 +19,16 @@
 <div class="col-lg-4">
 <div class="card" style="width: 18rem;"  data-aos="fade-up-left">
   <div class="card-body">
-    <p class="card-text">"My child loves it at The Learning Centre and really learns alot."</p>
-    <h5 class="card-title">Samantha Andrews</h5>
+    <p class="card-text">"We were introduced to Fazlin (The Learning Centre) towards the end of 2016 by Carol a representative of SNAP (Special Needs Adapted Program) from Durbanville at our home.
+
+Fazlin's tutoring of Timothy greatly impacted our lives as a family and we have never looked back.
+
+Timothy was taught to understand language although he cannot speak. He clearly understands what is said to him most of the time.
+
+Life became a lot easier for us to communicate with Timothy and he uses his hand gestures to communicate with us.
+
+The progress of Timothy can only be attributed to the dedicated staff/team of the Learning Centre!"</p>
+    <h5 class="card-title">Ivan, Karen and Timothy</h5>
   </div>
 </div>
 </div>
