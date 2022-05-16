@@ -36,8 +36,8 @@ The progress of Timothy can only be attributed to the dedicated staff/team of th
 <div class="col-lg-4">
 <div class="card" style="width: 18rem;"  data-aos="fade-up-right">
   <div class="card-body">
-    <p class="card-text">"My child loves it at The Learning Centre and really learns alot."</p>
-    <h5 class="card-title">Samantha Andrews</h5>
+    <p class="card-text">"A "</p>
+    <h5 class="card-title">Kasifa Adams</h5>
   </div>
 </div>
 </div>
