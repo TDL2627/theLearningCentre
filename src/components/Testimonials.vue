@@ -49,7 +49,9 @@
             <div class="col-lg-4">
               <div class="card" style="width: 18rem" data-aos="fade-up-right">
                 <div class="card-body">
-                  <p class="card-text">"A testimonials"</p>
+                  <p class="card-text">
+                    "A testimonial from the learning centre"
+                  </p>
                   <h5 class="card-title">Kasifa Adams</h5>
                 </div>
               </div>
