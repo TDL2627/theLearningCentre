@@ -50,7 +50,13 @@
               <div class="card" style="width: 18rem" data-aos="fade-up-right">
                 <div class="card-body">
                   <p class="card-text">
-                    "A testimonial from the learning centre"
+                    "A few years back I had struggles with my daughter not
+                    knowing what I was actually dealing with. My views of my
+                    daughter were very grey at that time.She had no sense of
+                    direction and barely spoke words. These past few years she
+                    has made a massive progress at her school and its all thanks
+                    to The Learning Centre. She improved in maths and
+                    creativity."
                   </p>
                   <h5 class="card-title">Kasifa Adams</h5>
                 </div>
